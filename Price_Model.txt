@@ -1,0 +1,20 @@
+Car Price Project-Regression Model Report
+  Import the necessary libraries
+  Load the dataset through pandas package
+  Do exploratory data analysis
+  Check whether dataset has null values or not
+  Check whether dataset has duplicated values or not
+  Check for unique values for each feature in the dataset
+  Check target values for missing values which is replaced by np.nan.
+  Drop the unnecessary column & outliers
+  Replace the null values by using simple imputer to fill value to its mean value
+  Apply ordinal encoder to the categorical features
+  Draw boxplot by using seaborn library
+  Do feature scaling use standard scaler
+  X is assigned as independent variable data and y assigned as dependent variable data
+  Split into train and test data(20%)
+  Apply different types of Machine learning Algorithm and build regression models
+  Tune the parameters of models as required and calculate metrics
+    1. R2 score,
+    2. Mean squared error
+    3. Mean absolute e
