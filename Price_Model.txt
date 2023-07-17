@@ -9,7 +9,6 @@ Car Price Project-Regression Model Report
   Drop the unnecessary column & outliers
   Replace the null values by using simple imputer to fill value to its mean value
   Apply ordinal encoder to the categorical features
-  Draw boxplot by using seaborn library
   Do feature scaling use standard scaler
   X is assigned as independent variable data and y assigned as dependent variable data
   Split into train and test data(20%)
